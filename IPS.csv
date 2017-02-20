@@ -1,0 +1,739 @@
+Event Name,Log Source,Event Count,Time,Low Level Category,Source IP,Source Port,Destination IP,Destination Port,Username,Magnitude
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,8,"Feb 19, 2017, 3:00:27 PM",Firewall Permit,82.205.67.11,50476,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,8,"Feb 19, 2017, 3:00:27 PM",Information,82.205.67.11,50476,88.88.88.88,80,N/A,7
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:00:29 PM",Firewall Deny,88.88.88.88,80,176.58.78.135,13398,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:31 PM",Information,176.106.45.207,50683,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:31 PM",Information,176.106.45.207,50684,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,35,"Feb 19, 2017, 3:00:22 PM",Firewall Permit,31.223.191.227,35636,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,34,"Feb 19, 2017, 3:00:22 PM",Information,31.223.191.227,35635,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:34 PM",Information,212.106.86.223,48455,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:34 PM",Information,212.106.86.223,48455,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:36 PM",Firewall Permit,82.205.123.23,12487,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:36 PM",Information,46.253.89.249,21689,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:36 PM",Information,46.253.89.249,21689,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:39 PM",Information,176.106.45.207,50685,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,15,"Feb 19, 2017, 3:00:32 PM",Firewall Permit,31.223.191.227,35652,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,16,"Feb 19, 2017, 3:00:32 PM",Information,31.223.191.227,35652,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:42 PM",Firewall Permit,82.205.123.23,12488,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:42 PM",Firewall Permit,82.205.123.23,12489,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:42 PM",Information,82.205.123.23,12488,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:43 PM",Information,82.205.123.23,12489,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:43 PM",Firewall Permit,82.205.123.23,12490,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:43 PM",Information,82.205.123.23,12490,88.88.88.88,80,N/A,7
+TCP_Checksum-Mismatch,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Invalid Protocol,37.8.100.141,18262,88.88.88.88,443,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,46.32.127.200,11451,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,46.32.127.200,11451,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,82.205.49.254,26202,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,82.205.49.254,26202,88.88.88.88,80,N/A,7
+TCP_Checksum-Mismatch,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Invalid Protocol,37.8.100.141,18262,88.88.88.88,443,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,176.67.98.180,55849,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:45 PM",Information,176.67.98.180,55849,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:00:43 PM",Firewall Permit,82.205.123.23,12494,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:00:44 PM",Information,82.205.123.23,12494,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Firewall Permit,31.223.191.227,35655,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Firewall Permit,31.223.191.227,35656,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Firewall Permit,31.223.191.227,35657,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Information,31.223.191.227,35655,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Information,31.223.191.227,35656,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:47 PM",Information,31.223.191.227,35657,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:49 PM",Information,82.205.11.18,21658,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:49 PM",Information,82.205.11.18,21658,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:00:47 PM",Firewall Permit,31.223.191.227,35668,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:00:47 PM",Information,31.223.191.227,35668,88.88.88.88,80,N/A,7
+TCP_Checksum-Mismatch,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:50 PM",Invalid Protocol,37.8.100.141,18262,88.88.88.88,443,N/A,8
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:50 PM",Information,188.161.179.210,25744,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:50 PM",Information,188.161.179.210,25744,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:50 PM",Information,46.43.113.214,15240,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:50 PM",Information,46.43.113.214,15240,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:54 PM",Information,37.8.33.227,14707,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:54 PM",Information,37.8.33.227,14707,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:55 PM",Firewall Permit,82.205.123.23,12496,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:55 PM",Firewall Permit,31.223.191.227,34836,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:55 PM",Information,31.223.191.227,34836,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:55 PM",Firewall Permit,82.205.123.23,12497,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:56 PM",Information,82.205.123.23,12486,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:59 PM",Information,82.205.29.235,12284,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:00:59 PM",Information,82.205.29.235,12284,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:02 PM",Information,82.205.16.222,18187,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:02 PM",Information,82.205.16.222,18187,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:02 PM",Information,83.244.54.142,49352,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:02 PM",Information,83.244.54.142,49352,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Information,5.102.107.219,49269,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:12 PM",Information,217.66.249.178,35083,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:12 PM",Information,217.66.249.178,35084,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:13 PM",Firewall Permit,213.244.119.251,53220,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:14 PM",Information,213.244.118.251,34537,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,7,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,5.102.107.219,49276,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,46.43.78.57,53772,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,46.43.78.57,53772,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,5.133.29.22,53651,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,5.133.29.22,53651,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,7,"Feb 19, 2017, 3:02:11 PM",Information,5.102.107.219,49276,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,14,"Feb 19, 2017, 3:02:09 PM",Firewall Permit,37.8.87.195,17962,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Firewall Permit,5.102.107.219,49277,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,14,"Feb 19, 2017, 3:02:09 PM",Information,37.8.87.195,17962,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,5.102.107.219,49277,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,213.244.119.245,57213,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Firewall Permit,5.102.107.219,49278,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Firewall Permit,5.102.107.219,49279,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,5.102.107.219,49278,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:15 PM",Information,5.102.107.219,49279,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Firewall Permit,37.8.87.195,17963,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Firewall Permit,37.8.87.195,17964,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Firewall Permit,37.8.87.195,17965,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Information,37.8.87.195,17963,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Information,82.205.87.215,11126,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Information,37.34.83.23,42883,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Information,82.205.87.215,11126,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:16 PM",Information,37.34.83.23,42883,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:17 PM",Information,46.60.75.231,56481,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:17 PM",Information,46.60.75.231,56481,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:17 PM",Information,37.8.87.195,17964,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:17 PM",Information,37.8.87.195,17965,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Firewall Permit,46.60.110.101,6148,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Information,46.60.110.101,6148,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Firewall Permit,217.78.53.167,44341,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Firewall Permit,217.78.53.167,44342,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Firewall Permit,217.78.53.167,44343,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Information,217.78.53.167,44341,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:18 PM",Information,213.244.118.251,35953,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:19 PM",Firewall Permit,213.244.119.245,61367,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:19 PM",Firewall Permit,213.244.119.245,40240,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Information,217.78.53.167,44342,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:02:18 PM",Firewall Permit,217.78.53.167,44346,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Firewall Permit,46.60.110.101,19265,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Firewall Permit,46.60.110.101,11527,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Firewall Permit,46.60.110.101,5132,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Information,46.60.110.101,19265,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Information,217.78.53.167,44343,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Information,46.60.110.101,5099,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:20 PM",Information,46.60.110.101,5132,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:21 PM",Firewall Permit,212.33.113.119,16978,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:21 PM",Information,212.33.113.119,16978,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,9,"Feb 19, 2017, 3:02:15 PM",Firewall Permit,5.102.107.219,49288,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:21 PM",Information,188.161.245.122,22632,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:21 PM",Information,188.161.245.122,22632,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,9,"Feb 19, 2017, 3:02:15 PM",Information,5.102.107.219,49288,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,26,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,217.66.249.178,35115,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Firewall Permit,212.33.113.119,16979,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Firewall Permit,212.33.113.119,16980,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Firewall Permit,5.102.107.219,49289,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Information,212.33.113.119,16979,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,27,"Feb 19, 2017, 3:02:12 PM",Information,217.66.249.178,35115,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Information,212.33.113.119,16980,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Information,5.102.107.219,49289,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:22 PM",Firewall Permit,46.60.98.63,7866,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Information,46.60.98.63,7866,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Firewall Permit,66.249.66.51,57965,88.88.88.88,443,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Firewall Permit,5.102.107.219,49290,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Information,5.102.107.219,49290,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Firewall Permit,5.102.107.219,49291,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:20 PM",Information,217.78.53.167,44346,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:23 PM",Information,5.102.107.219,49291,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:24 PM",Firewall Permit,46.60.98.63,15666,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:24 PM",Information,46.60.98.63,15666,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:21 PM",Firewall Permit,217.66.249.178,35119,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Firewall Permit,66.249.66.51,53754,88.88.88.88,443,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Firewall Permit,46.60.98.63,27844,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:22 PM",Information,217.66.249.178,35119,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,27,"Feb 19, 2017, 3:02:16 PM",Firewall Permit,37.8.87.195,17988,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Information,46.60.98.63,27844,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,27,"Feb 19, 2017, 3:02:17 PM",Information,37.8.87.195,17988,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Firewall Permit,217.66.249.178,35120,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Firewall Permit,217.66.249.178,35121,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,10,"Feb 19, 2017, 3:02:22 PM",Information,212.33.113.119,16988,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:02:22 PM",Firewall Permit,212.33.113.119,16991,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,212.106.91.64,11526,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,212.106.91.64,11526,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,37.8.124.199,52577,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,37.8.124.199,52577,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,176.65.13.146,35318,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Information,176.65.13.146,35318,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:26 PM",Firewall Permit,217.66.249.178,35122,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Firewall Permit,37.8.87.195,17997,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Firewall Permit,37.8.87.195,17998,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Information,213.244.119.251,53220,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Information,37.8.87.195,17997,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Information,37.8.87.195,17998,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Firewall Permit,46.60.98.63,23273,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Firewall Permit,37.8.87.195,17999,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:25 PM",Information,46.60.98.63,23273,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:27 PM",Information,37.8.87.195,17999,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Firewall Permit,46.60.98.63,25055,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Firewall Permit,46.60.98.63,26751,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,46.60.98.63,25055,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,217.66.249.178,35120,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,217.66.249.178,35121,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,46.60.98.63,26751,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Firewall Permit,213.244.119.251,48980,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,217.66.249.178,35122,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Firewall Permit,217.66.249.178,35124,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Information,212.33.113.119,16991,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Firewall Permit,185.24.206.144,34850,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Firewall Permit,217.66.249.178,35126,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Firewall Permit,185.24.206.144,34852,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Information,185.24.206.144,34850,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:29 PM",Firewall Permit,217.66.249.178,35128,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:30 PM",Information,193.124.249.118,14197,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:30 PM",Information,193.124.249.118,14197,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:30 PM",Information,46.253.91.66,15175,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:30 PM",Information,46.253.91.66,15175,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Firewall Permit,37.8.87.195,18004,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,68,"Feb 19, 2017, 3:02:20 PM",Firewall Permit,46.60.110.101,15753,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:28 PM",Information,37.8.87.195,18004,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,69,"Feb 19, 2017, 3:02:20 PM",Information,46.60.110.101,2474,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:31 PM",Firewall Permit,82.205.123.23,12603,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:31 PM",Firewall Permit,82.205.123.23,12604,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:31 PM",Information,82.205.123.23,12603,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:31 PM",Firewall Permit,46.60.98.63,27708,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:31 PM",Information,46.60.98.63,27708,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,9,"Feb 19, 2017, 3:02:23 PM",Firewall Permit,5.102.107.219,49300,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,9,"Feb 19, 2017, 3:02:24 PM",Information,5.102.107.219,49300,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,5,"Feb 19, 2017, 3:02:30 PM",Firewall Permit,46.60.110.101,13108,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:02:30 PM",Information,46.60.110.101,13108,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:02:30 PM",Information,217.66.249.178,35128,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:33 PM",Firewall Permit,37.8.87.195,18007,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:33 PM",Firewall Permit,37.8.87.195,18008,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:33 PM",Information,37.8.87.195,18007,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:33 PM",Information,37.8.87.195,18008,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Firewall Permit,37.8.87.195,18009,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,37.8.87.195,18009,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Firewall Permit,82.205.123.23,12607,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Firewall Permit,37.8.57.210,21384,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Firewall Permit,185.108.25.110,20989,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,85.114.107.238,40961,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,85.114.107.238,40961,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,217.66.237.50,52062,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,217.66.237.50,52062,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,185.108.25.110,20989,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:34 PM",Information,37.8.57.210,21384,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,185.108.25.110,20990,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,82.205.123.23,12604,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,185.108.25.110,20991,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,82.205.123.23,12607,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,37.8.57.210,21387,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,213.244.119.245,61367,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,185.108.25.110,20990,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,37.8.57.210,21388,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,185.108.25.110,20991,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,37.8.57.210,21387,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,82.205.123.23,12608,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,82.205.123.23,12609,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,37.8.57.210,21389,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,82.205.123.23,12608,88.88.88.88,80,N/A,7
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Deny,88.88.88.88,80,172.58.12.196,45568,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Information,213.244.119.245,40240,88.88.88.88,80,N/A,7
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:35 PM",Firewall Deny,88.88.88.88,80,172.58.12.196,33471,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:02:34 PM",Firewall Permit,37.8.87.195,18012,88.88.88.88,80,N/A,8
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:36 PM",Firewall Deny,88.88.88.88,80,172.58.12.196,27124,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:36 PM",Firewall Permit,46.60.110.101,25214,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:02:34 PM",Information,37.8.87.195,18012,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:36 PM",Information,46.60.110.101,25214,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:36 PM",Firewall Permit,46.60.98.63,9656,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:37 PM",Information,46.60.98.63,9656,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:37 PM",Firewall Permit,46.60.98.63,7432,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:37 PM",Firewall Permit,46.60.98.63,18839,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:38 PM",Information,46.60.98.63,7432,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:38 PM",Information,46.60.98.63,18839,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Firewall Permit,5.102.107.219,49301,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Firewall Permit,5.102.107.219,49302,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Firewall Permit,5.102.107.219,49303,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Information,31.223.179.240,13634,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Information,31.223.179.240,13634,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Information,37.8.107.247,56850,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Information,37.8.107.247,56850,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:39 PM",Information,5.102.107.219,49301,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:40 PM",Information,5.102.107.219,49302,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:40 PM",Information,5.102.107.219,49303,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:38 PM",Firewall Permit,46.60.98.63,17682,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:38 PM",Information,46.60.98.63,17682,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:40 PM",Firewall Permit,85.114.116.92,12101,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:41 PM",Information,85.114.116.92,12101,88.88.88.88,80,N/A,7
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Firewall Deny,88.88.88.88,80,213.6.79.226,51138,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Firewall Permit,5.102.107.219,49305,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Firewall Permit,5.102.107.219,49306,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Firewall Permit,5.102.107.219,49307,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Information,5.102.107.219,49305,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Information,5.102.107.219,49306,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:42 PM",Information,5.102.107.219,49307,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:43 PM",Information,46.244.88.166,28044,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:43 PM",Information,46.244.88.166,28044,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,34,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,37.8.57.210,21434,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,217.66.249.178,35145,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,34,"Feb 19, 2017, 3:02:35 PM",Information,37.8.57.210,21434,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Firewall Permit,213.244.119.245,58415,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:01:37 PM",Firewall Permit,188.161.22.73,12340,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Firewall Permit,217.66.249.178,35042,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Firewall Permit,217.66.249.178,35043,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Firewall Permit,217.66.249.178,35044,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Information,217.66.249.178,35041,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:01:37 PM",Information,188.161.22.73,12340,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:39 PM",Firewall Permit,217.66.249.178,35045,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Firewall Permit,217.66.249.178,35046,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Information,217.66.249.178,35046,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Firewall Permit,217.66.249.178,35047,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Information,37.8.2.190,61145,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Information,37.8.2.190,61145,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:42 PM",Information,217.66.249.178,35047,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,36,"Feb 19, 2017, 3:01:35 PM",Firewall Permit,176.65.20.34,53238,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,36,"Feb 19, 2017, 3:01:35 PM",Information,176.65.20.34,53238,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,213.244.118.245,56693,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,213.244.118.245,36679,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,82.205.123.23,12587,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,213.244.118.245,48973,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Information,82.205.123.23,12587,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,217.66.249.178,35048,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:46 PM",Information,217.66.249.178,35048,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Information,82.205.113.67,22936,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Information,82.205.113.67,22936,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Information,188.161.182.52,17317,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Information,188.161.182.52,17317,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Firewall Permit,217.66.249.178,35049,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:47 PM",Firewall Permit,217.66.249.178,35050,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:48 PM",Information,217.66.249.178,35042,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:48 PM",Information,217.66.249.178,35043,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:48 PM",Information,213.244.119.245,58415,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:01:46 PM",Firewall Permit,213.244.118.245,60192,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:01:48 PM",Information,217.66.249.178,35050,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,217.66.249.178,35052,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,217.66.249.178,35053,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,188.161.182.52,17323,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,188.161.182.52,17323,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,85.114.107.42,37978,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:50 PM",Information,85.114.107.42,37978,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:52 PM",Information,217.66.249.178,35054,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,5,"Feb 19, 2017, 3:01:48 PM",Firewall Permit,217.66.249.178,35055,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:53 PM",Firewall Permit,217.66.249.178,35058,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:53 PM",Firewall Permit,217.66.249.178,35059,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:53 PM",Firewall Permit,217.66.249.178,35060,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,46.18.23.202,53070,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,46.18.23.202,53070,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,188.161.182.52,17336,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,188.161.182.52,17336,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,82.205.67.208,53122,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Information,82.205.67.208,53122,88.88.88.88,80,N/A,7
+TCP_FIN-Data-After,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:55 PM",Invalid Protocol,212.34.12.108,37076,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:01:52 PM",Information,217.66.249.178,35060,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:56 PM",Information,217.66.249.178,35061,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:57 PM",Information,217.66.249.178,35062,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:57 PM",Information,217.66.249.178,35063,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,213.244.118.245,56693,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.14.233.148,57662,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.14.233.148,57662,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.33.108.70,50129,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.33.108.70,50129,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.33.99.130,16003,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,212.33.99.130,16003,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,188.161.182.52,17348,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,188.161.182.52,17348,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,176.106.44.170,59758,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:00 PM",Information,176.106.44.170,59758,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Firewall Permit,5.102.107.219,49243,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Firewall Permit,5.102.107.219,49244,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Firewall Permit,5.102.107.219,49245,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Information,213.244.118.245,36679,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Information,5.102.107.219,49243,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Information,5.102.107.219,49244,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:01 PM",Information,213.244.118.245,48973,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:02 PM",Information,5.102.107.219,49245,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:02 PM",Information,82.205.123.23,12553,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:02:01 PM",Firewall Permit,5.102.107.219,49248,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,5.102.107.219,49257,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,213.244.118.251,34537,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,213.244.119.245,57213,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,5.102.107.219,49258,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,82.205.123.23,12589,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Firewall Permit,82.205.123.23,12590,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Information,82.205.123.23,12589,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:03 PM",Information,82.205.123.23,12590,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:04 PM",Information,188.215.127.172,24521,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:04 PM",Information,188.215.127.172,24521,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:04 PM",Firewall Permit,5.102.107.219,49259,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,17,"Feb 19, 2017, 3:01:54 PM",Firewall Permit,217.66.249.178,35077,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:05 PM",Firewall Permit,217.66.249.178,35078,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:05 PM",Firewall Permit,217.66.249.178,35079,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,15,"Feb 19, 2017, 3:01:58 PM",Information,217.66.249.178,35077,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:05 PM",Firewall Permit,217.66.249.178,35080,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:02:03 PM",Information,213.244.118.245,60192,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Firewall Permit,37.8.87.195,17941,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Firewall Permit,82.205.123.23,12591,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Firewall Permit,82.205.123.23,12592,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Firewall Permit,82.205.123.23,12593,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,37.8.87.195,17941,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,82.205.123.23,12591,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,82.205.123.23,12592,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,82.205.123.23,12593,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,217.66.249.178,35078,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,217.66.249.178,35079,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:06 PM",Information,217.66.249.178,35080,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,5,"Feb 19, 2017, 3:02:05 PM",Firewall Permit,5.102.107.219,49264,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:02:02 PM",Information,5.102.107.219,49264,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:07 PM",Firewall Permit,217.66.249.178,35081,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:06 PM",Firewall Permit,82.205.123.23,12595,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Firewall Permit,217.66.249.178,35082,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,82.205.70.92,12375,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,82.205.70.92,12375,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,185.12.184.229,15469,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,185.12.184.229,15469,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,188.161.115.111,10097,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,188.161.115.111,10097,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Firewall Permit,5.102.107.219,49265,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,5.102.107.219,49265,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Firewall Permit,5.102.107.219,49266,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,5.102.107.219,49266,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Firewall Permit,213.244.118.251,35953,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Firewall Permit,37.8.87.195,17942,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Firewall Permit,37.8.87.195,17943,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Firewall Permit,37.8.87.195,17944,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:06 PM",Information,82.205.123.23,12595,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Information,37.8.87.195,17942,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Information,37.8.87.195,17943,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:09 PM",Information,37.8.87.195,17944,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:10 PM",Information,212.33.103.32,14696,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:10 PM",Information,212.33.103.32,14696,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:08 PM",Information,217.66.249.178,35081,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:10 PM",Information,217.66.249.178,35082,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,217.66.249.178,35083,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,217.66.249.178,35084,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,5.102.107.219,49267,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Information,5.102.107.219,49267,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,5.102.107.219,49268,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,5.102.107.219,49269,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Firewall Permit,217.66.249.178,35085,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:11 PM",Information,5.102.107.219,49268,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:04 PM",Firewall Permit,213.244.118.245,60663,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:06 PM",Information,188.161.194.11,15111,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:06 PM",Information,188.161.194.11,15111,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:06 PM",Information,37.76.194.181,49343,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:06 PM",Information,37.76.194.181,49343,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:08 PM",Information,213.244.118.245,60663,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,188.161.179.139,19690,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,188.161.179.139,19690,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,37.34.94.41,22618,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,37.34.94.41,22618,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,176.65.27.91,46126,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,176.65.27.91,46126,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Firewall Permit,188.161.22.73,12322,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Firewall Permit,213.244.119.245,40965,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Information,188.161.22.73,12322,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Firewall Permit,213.244.119.251,53423,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Firewall Permit,213.244.118.245,38313,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:11 PM",Firewall Permit,213.244.118.245,53780,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.119.251,38243,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.118.251,46648,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.119.245,38053,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.118.251,60029,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.119.251,59668,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.118.245,35036,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:13 PM",Information,62.16.69.78,40847,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:13 PM",Information,62.16.69.78,40847,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:13 PM",Information,213.6.64.90,47612,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:13 PM",Information,213.6.64.90,47612,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:01:12 PM",Firewall Permit,213.244.119.251,49944,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:14 PM",Firewall Permit,188.161.22.73,12323,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:14 PM",Information,188.161.22.73,12323,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:14 PM",Firewall Permit,188.161.22.73,12324,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:14 PM",Firewall Permit,188.161.22.73,12325,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:15 PM",Information,188.161.22.73,12324,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:15 PM",Information,188.161.22.73,12325,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:16 PM",Information,37.8.122.225,45186,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:16 PM",Information,37.8.122.225,45186,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:16 PM",Information,82.102.236.209,11757,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:16 PM",Information,82.102.236.209,11757,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:14 PM",Firewall Permit,188.161.22.73,12326,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:15 PM",Information,188.161.22.73,12326,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:17 PM",Information,213.244.119.245,40965,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:18 PM",Information,213.244.119.251,53423,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:19 PM",Firewall Permit,82.205.123.23,12510,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:19 PM",Firewall Permit,82.205.123.23,12511,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:19 PM",Information,82.205.123.23,12510,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:19 PM",Firewall Permit,82.205.123.23,12512,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:19 PM",Information,82.205.123.23,12511,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:20 PM",Information,82.205.123.23,12512,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:20 PM",Information,213.244.118.245,38313,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:20 PM",Information,213.244.118.245,53780,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:21 PM",Information,213.244.118.251,46648,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,82.205.23.164,16640,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,82.205.23.164,16640,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,176.106.40.200,46444,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,176.106.40.200,46444,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,213.244.119.251,38243,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,213.244.119.245,38053,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:22 PM",Information,213.244.118.251,60029,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:23 PM",Information,213.244.119.251,59668,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:01:20 PM",Information,82.205.123.23,12517,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:23 PM",Information,82.205.123.23,12518,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,82.205.123.23,12521,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,82.205.123.23,12522,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,5.43.192.194,52031,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,5.43.192.194,52031,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,185.6.56.61,14819,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,185.6.56.61,14819,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,85.113.115.168,46827,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,85.113.115.168,46827,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,213.244.118.245,35036,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,213.244.119.251,42190,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:26 PM",Firewall Permit,213.244.119.245,59816,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:26 PM",Firewall Permit,213.244.118.245,55347,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:26 PM",Information,82.205.123.23,12533,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:24 PM",Information,213.244.119.251,49944,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:27 PM",Information,82.205.123.23,12534,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:27 PM",Information,82.205.123.23,12537,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:01:19 PM",Firewall Permit,82.205.123.23,12537,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:29 PM",Information,82.205.68.7,47051,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:29 PM",Information,82.205.68.7,47051,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:29 PM",Information,212.106.87.216,16140,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:29 PM",Information,212.106.87.216,16140,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:30 PM",Firewall Permit,82.205.123.23,12549,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:30 PM",Firewall Permit,82.205.123.23,12552,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:30 PM",Information,82.205.123.23,12549,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:30 PM",Information,82.205.123.23,12552,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:31 PM",Firewall Permit,176.65.20.34,53198,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:31 PM",Firewall Permit,82.205.123.23,12553,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:32 PM",Information,176.65.20.34,53198,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:32 PM",Information,82.205.123.23,12554,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:32 PM",Information,217.66.242.89,53085,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:32 PM",Information,217.66.242.89,53085,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:33 PM",Firewall Permit,217.66.249.178,35040,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:33 PM",Firewall Permit,217.66.249.178,35041,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:33 PM",Information,217.66.249.178,35040,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Firewall Permit,176.65.20.34,53199,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Firewall Permit,176.65.20.34,53200,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Firewall Permit,176.65.20.34,53201,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Information,176.65.20.34,53199,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Information,176.65.20.34,53200,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:35 PM",Information,176.65.20.34,53201,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:36 PM",Firewall Permit,188.161.22.73,12336,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,188.161.22.73,12336,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,6,"Feb 19, 2017, 3:01:33 PM",Information,82.205.123.23,12565,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Firewall Permit,188.161.22.73,12337,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Firewall Permit,188.161.22.73,12338,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,188.161.22.73,12337,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,188.161.22.73,12338,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,37.8.48.181,12011,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,37.8.48.181,12011,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,188.161.182.52,17279,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,188.161.182.52,17279,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,7,"Feb 19, 2017, 3:01:32 PM",Firewall Permit,82.205.123.23,12572,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,130.255.64.86,16718,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:37 PM",Information,130.255.64.86,16718,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:38 PM",Information,213.244.118.245,55347,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:01:38 PM",Information,213.244.119.245,59816,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,50,"Feb 19, 2017, 3:02:35 PM",Firewall Permit,185.108.25.110,21054,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,49,"Feb 19, 2017, 3:02:35 PM",Information,185.108.25.110,21053,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,217.66.249.178,35146,88.88.88.88,80,N/A,8
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Deny,88.88.88.88,80,213.6.79.226,51143,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:02:42 PM",Firewall Permit,5.102.107.219,49319,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,5.102.107.219,49320,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,5.102.107.219,49321,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,5.102.107.219,49322,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:46 PM",Firewall Permit,37.8.57.210,21435,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:46 PM",Information,217.66.249.178,35146,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:47 PM",Information,194.58.245.43,14506,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:47 PM",Information,194.58.245.43,14506,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,5.102.107.219,49326,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,16,"Feb 19, 2017, 3:02:42 PM",Information,5.102.107.219,49326,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:48 PM",Firewall Permit,5.102.107.219,49327,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:48 PM",Firewall Permit,5.102.107.219,49328,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:48 PM",Information,5.102.107.219,49327,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:48 PM",Information,5.102.107.219,49328,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Firewall Permit,5.102.107.219,49329,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Information,5.102.107.219,49329,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Information,217.66.244.67,51349,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Information,217.66.244.67,51349,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Information,176.58.76.137,11791,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Information,176.58.76.137,11791,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Firewall Permit,217.66.249.178,35148,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:49 PM",Firewall Permit,217.66.249.178,35149,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:50 PM",Firewall Permit,217.66.249.178,35150,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:50 PM",Firewall Permit,88.88.88.88,33588,10.160.140.119,514,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,24,"Feb 19, 2017, 3:02:45 PM",Firewall Permit,185.108.25.110,21076,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:50 PM",Firewall Permit,88.88.88.88,41735,192.116.16.26,53,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,25,"Feb 19, 2017, 3:02:45 PM",Information,185.108.25.110,21076,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:50 PM",Information,217.66.249.178,35148,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:50 PM",Information,213.244.119.251,48980,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:49 PM",Firewall Permit,5.102.107.219,49331,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:49 PM",Information,5.102.107.219,49331,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:02:50 PM",Firewall Permit,217.66.249.178,35152,88.88.88.88,80,N/A,8
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:52 PM",Firewall Deny,88.88.88.88,80,37.8.54.103,26860,N/A,8
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,82.205.90.63,34204,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,82.205.90.63,34204,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,176.12.231.129,30753,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,176.12.231.129,30753,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,85.113.96.115,37635,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Information,85.113.96.115,37635,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Firewall Permit,213.244.119.251,62921,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Firewall Permit,213.244.119.245,48506,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Firewall Permit,213.244.118.251,55638,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Firewall Permit,213.244.118.245,37636,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:53 PM",Firewall Permit,213.244.118.245,49425,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:54 PM",Information,217.66.249.178,35149,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:57 PM",Firewall Permit,185.108.25.110,21089,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:57 PM",Information,185.108.25.110,21089,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:57 PM",Information,217.66.249.178,35150,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:58 PM",Firewall Permit,46.20.215.69,12872,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:58 PM",Firewall Permit,66.249.66.120,34230,88.88.88.88,443,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:58 PM",Information,46.20.215.69,12872,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:59 PM",Information,176.65.16.196,15414,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:02:59 PM",Information,176.65.16.196,15414,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:00 PM",Firewall Permit,46.20.215.69,12877,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:00 PM",Information,46.20.215.69,12877,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:00 PM",Firewall Permit,66.249.66.124,34891,88.88.88.88,443,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:00 PM",Firewall Permit,46.20.215.69,12878,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:00 PM",Information,46.20.215.69,12878,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:01 PM",Firewall Permit,46.20.215.69,12879,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:01 PM",Information,46.20.215.69,12879,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:01 PM",Information,217.66.249.178,35151,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:02 PM",Information,176.58.75.55,10425,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:02 PM",Information,176.58.75.55,10425,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:03 PM",Firewall Permit,66.249.66.120,47348,88.88.88.88,443,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:03 PM",Firewall Permit,5.102.107.219,49342,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:03 PM",Information,5.102.107.219,49342,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:04 PM",Firewall Permit,46.20.215.69,12883,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:04 PM",Firewall Permit,46.20.215.69,12884,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:05 PM",Information,46.20.215.69,12883,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:05 PM",Information,46.20.215.69,12884,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:06 PM",Firewall Permit,82.205.4.242,24206,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:06 PM",Information,82.205.4.242,24206,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:06 PM",Firewall Permit,82.205.4.242,24207,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:06 PM",Firewall Permit,82.205.4.242,24208,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:07 PM",Information,82.205.4.242,24207,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:07 PM",Information,82.205.4.242,24208,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:07 PM",Information,213.244.118.251,55638,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:07 PM",Firewall Permit,69.63.188.108,51198,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:07 PM",Firewall Permit,69.171.230.97,57146,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,69.63.188.108,51198,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,213.244.118.245,37636,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Firewall Permit,46.20.215.69,12888,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,185.5.223.99,43947,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,185.5.223.99,43947,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,37.75.213.151,50073,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,37.75.213.151,50073,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,31.223.187.37,11564,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,31.223.187.37,11564,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,3,"Feb 19, 2017, 3:03:06 PM",Firewall Permit,82.205.4.242,24211,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,93.184.13.90,43209,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,93.184.13.90,43209,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,46.20.215.69,12888,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,69.171.230.97,57146,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:03:07 PM",Information,82.205.4.242,24211,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:08 PM",Information,213.244.118.245,49425,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Firewall Permit,46.20.215.69,12889,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Firewall Permit,46.20.215.69,12890,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Information,46.20.215.69,12889,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Information,46.20.215.69,12890,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Firewall Permit,82.205.4.242,24212,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:09 PM",Information,82.205.4.242,24212,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:10 PM",Firewall Permit,82.205.4.242,24213,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:10 PM",Information,213.244.119.245,48506,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:10 PM",Information,213.244.119.251,62921,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:10 PM",Information,82.205.4.242,24213,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:10 PM",Firewall Permit,82.205.4.242,24214,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:11 PM",Information,82.205.4.242,24214,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:03:09 PM",Firewall Permit,46.20.215.69,12892,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:03:09 PM",Information,46.20.215.69,12892,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:11 PM",Firewall Permit,212.106.87.104,13376,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:11 PM",Information,212.106.87.104,13376,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,5.102.107.190,40103,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,5.102.107.190,40103,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,188.161.101.8,50441,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,188.161.101.8,50441,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Firewall Permit,212.106.87.104,13377,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,212.106.87.104,13377,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Firewall Permit,212.106.87.104,13378,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:12 PM",Information,212.106.87.104,13378,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:03:12 PM",Firewall Permit,212.106.87.104,13381,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,2,"Feb 19, 2017, 3:03:12 PM",Information,212.106.87.104,13381,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:16 PM",Firewall Permit,88.88.88.88,58758,192.116.16.26,53,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:16 PM",Firewall Permit,88.88.88.88,57410,192.116.16.26,53,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:49 PM",Information,213.244.119.251,59464,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:03:47 PM",Firewall Permit,82.205.64.224,21665,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,11,"Feb 19, 2017, 3:03:47 PM",Information,82.205.64.224,21665,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:52 PM",Information,213.244.119.245,49467,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Information,46.43.123.39,2572,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Information,46.43.123.39,2572,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Information,46.43.106.106,54348,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Information,46.43.106.106,54348,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Firewall Permit,213.244.119.245,44298,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Firewall Permit,82.205.64.224,21676,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:53 PM",Firewall Permit,82.205.64.224,21677,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:54 PM",Firewall Permit,82.205.64.224,21678,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:54 PM",Information,82.205.64.224,21676,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:54 PM",Information,82.205.64.224,21677,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:54 PM",Information,82.205.64.224,21678,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:55 PM",Firewall Permit,213.244.119.245,44830,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:54 PM",Firewall Permit,82.205.64.224,21679,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:56 PM",Firewall Permit,82.205.64.224,21682,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:56 PM",Firewall Permit,82.205.64.224,21683,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:56 PM",Firewall Permit,82.205.64.224,21684,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:56 PM",Information,82.205.87.54,11915,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:56 PM",Information,82.205.87.54,11915,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:57 PM",Information,213.244.118.251,60174,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,7,"Feb 19, 2017, 3:03:55 PM",Information,82.205.64.224,21681,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,4,"Feb 19, 2017, 3:03:56 PM",Firewall Permit,82.205.64.224,21685,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,86.104.164.202,28723,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,86.104.164.202,28723,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,217.78.61.171,17033,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,217.78.61.171,17033,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,217.78.52.13,49474,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:02 PM",Information,217.78.52.13,49474,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:04 PM",Information,82.205.64.224,21685,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:04 PM",Firewall Permit,82.205.64.224,21693,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:04 PM",Information,82.205.64.224,21693,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Firewall Permit,213.244.119.251,41989,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Firewall Permit,82.205.64.224,21694,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Firewall Permit,82.205.64.224,21695,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Information,217.66.224.235,49052,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Information,217.66.224.235,49052,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Information,82.205.64.224,21694,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:06 PM",Information,213.244.119.245,44298,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:05 PM",Information,82.205.64.224,21695,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:08 PM",Information,213.244.119.245,44830,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:08 PM",Firewall Permit,82.205.64.224,21696,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:09 PM",Firewall Permit,82.205.64.224,21697,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:09 PM",Information,82.205.64.224,21696,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:09 PM",Information,82.205.64.224,21697,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:10 PM",Information,37.8.63.184,26632,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:10 PM",Information,37.8.63.184,26632,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,37.8.122.71,11084,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,37.8.122.71,11084,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,82.205.4.233,28480,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,82.205.4.233,28480,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,46.244.89.242,21649,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,46.244.89.242,21649,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,82.102.201.49,11772,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Information,82.102.201.49,11772,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:14 PM",Firewall Permit,66.249.66.93,38281,88.88.88.88,443,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:16 PM",Firewall Permit,66.249.66.94,58149,88.88.88.88,443,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:16 PM",Information,213.244.119.251,41989,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:17 PM",Firewall Permit,213.244.118.245,57299,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:04:17 PM",Firewall Permit,213.244.118.245,48837,88.88.88.88,80,N/A,8
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:17 PM",Information,93.184.13.90,43287,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:17 PM",Information,93.184.13.90,43287,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,15,"Feb 19, 2017, 3:03:11 PM",Firewall Permit,82.205.4.242,24233,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,16,"Feb 19, 2017, 3:03:11 PM",Information,82.205.4.242,24233,88.88.88.88,80,N/A,7
+Connection_Discarded,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:18 PM",Firewall Deny,88.88.88.88,80,46.60.98.63,9656,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:18 PM",Firewall Permit,213.244.118.251,60183,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:20 PM",Firewall Permit,213.244.118.245,61329,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:20 PM",Firewall Permit,213.244.118.245,42234,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:20 PM",Firewall Permit,213.244.119.245,63265,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:20 PM",Firewall Permit,213.244.119.245,53042,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:21 PM",Firewall Permit,82.205.4.242,24234,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,82.205.4.242,24234,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,82.163.70.152,37347,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,82.163.70.152,37347,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,82.205.39.2,59942,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,82.205.39.2,59942,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,37.8.102.190,13865,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,37.8.102.190,13865,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,5.102.107.23,16298,88.88.88.88,80,N/A,7
+File-Binary_Conflicting-Content-Type-Text-Plain,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:22 PM",Information,5.102.107.23,16298,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:23 PM",Firewall Permit,82.205.64.224,21610,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:23 PM",Information,82.205.64.224,21610,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:23 PM",Firewall Permit,82.205.64.224,21611,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:23 PM",Information,82.205.64.224,21611,88.88.88.88,80,N/A,7
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:24 PM",Firewall Permit,212.106.87.104,13398,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:24 PM",Firewall Permit,212.106.87.104,13399,88.88.88.88,80,N/A,8
+Connection_Allowed,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:24 PM",Firewall Permit,212.106.87.104,13400,88.88.88.88,80,N/A,8
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:24 PM",Information,212.106.87.104,13398,88.88.88.88,80,N/A,7
+HTTP_URL-Logged,Had_Stonesoft Management Center @ 10.160.140.6,1,"Feb 19, 2017, 3:03:25 PM",Information,212.106.87.104,13399,88.88.88.88,80,N/A,7
